@@ -1,0 +1,8 @@
+name: badapplemc
+version: '1.0-SNAPSHOT'
+main: kr.oein.badapplemc.Badapplemc
+api-version: '1.21'
+commands:
+  kit:
+    description: Your description
+    usage: /<command>
